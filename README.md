@@ -8,3 +8,4 @@ Wordcount.java: Counts the amount of words in the file. A word can end with a --
    Count the amount of punctuations in the file.
    it outputs a output file with all the above information.
 Selected method (Record_System_tabs, getconnection, show_users_in_jtable, jButton5ActionPerformed, jComboBox1ActionPerformed, jTable1MouseClicked, users).
+![download](https://github.com/user-attachments/assets/785bbeea-8ca7-4b46-b034-d141d9c64b32)
